@@ -24,6 +24,7 @@ newThree("vihanga")
 
 
 //closures - it is when the inner function access the outer function variables
+//closures are used to create private variables
 
 const createCounter = () => {
     let count = 0
