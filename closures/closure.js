@@ -23,7 +23,7 @@ const newThree = newOne("sandagomi")
 newThree("vihanga")
 
 
-
+//closures - it is when the inner function access the outer function variables
 
 const createCounter = () => {
     let count = 0
