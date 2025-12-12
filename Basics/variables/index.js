@@ -7,3 +7,4 @@ console.log(number)
 //variables
 //constants
 //something
+//something else
