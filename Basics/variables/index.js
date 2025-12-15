@@ -6,4 +6,6 @@ console.log(customer)
 console.log(number)
 
 //variables
+//
+
 
