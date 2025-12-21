@@ -9,7 +9,5 @@ console.log(number)
 
 //variables
 //
-//
-//
-//
+
 
