@@ -19,5 +19,12 @@ const addNew = (num1, num2) => {
     return num1 + num2
 }
 
+const subtractNew = (num1, num2) => {
+    return num1 - num2
+}
+
+const stringifyNew = (num) => {
+    return "Result:" + num
+}
 
 console.log(add(5, 10))
