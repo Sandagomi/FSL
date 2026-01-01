@@ -41,3 +41,11 @@ function transform(num, func) {
 }
 
 console.log(transform(5, double))
+
+
+
+function combine(str1, str2, str3) {
+    return str1 + str2 + str3
+}
+
+console.log(combine("Hello", " ", "World")) 
