@@ -30,4 +30,14 @@ const stringifyNew = (num) => {
 console.log(add(5, 10))
 
 //commenting to see how the branches works
-//
+
+
+function double(num) {
+    return num * 2
+}
+
+function transform(num, func) {
+    return func(num)
+}
+
+console.log(transform(5, double))
