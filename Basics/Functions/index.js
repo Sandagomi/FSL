@@ -48,4 +48,11 @@ function combine(str1, str2, str3) {
     return str1 + str2 + str3
 }
 
-console.log(combine("Hello", " ", "World")) 
+console.log(combine("Hello", " ", "World"))
+
+
+function transform(str, func) {
+    return func(str)
+}
+
+console.log(transform("Hello", combine))
