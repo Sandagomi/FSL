@@ -56,3 +56,5 @@ function transform(str, func) {
 }
 
 console.log(transform("Hello", combine))
+
+//comments
