@@ -58,3 +58,4 @@ function transform(str, func) {
 console.log(transform("Hello", combine))
 
 //comments
+//something is coming
