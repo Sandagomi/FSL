@@ -60,3 +60,9 @@ console.log(transform("Hello", combine))
 //comments
 //something is coming
 //
+
+function transform(str, func) {
+    return func(str)
+}
+
+console.log(transform("Hello", combine))
